@@ -12,7 +12,7 @@ Then:
   
 **Analysis 2: Clustering**
   
-In this example, I will analyse the wine dataset from the UCI Machine Learning repository that is described here:  
+In this Analysis, I will analyse the wine dataset from the UCI Machine Learning repository that is described here:  
 https://archive.ics.uci.edu/ml/datasets/Wine  
 The actual csv file for the data is available here:  
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data  
